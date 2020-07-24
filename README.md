@@ -8,7 +8,7 @@
 
 <!-- 
 <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/> -->
-<p align=""> <img src=https://komarev.com/ghpvc/?username=AnubhavMadhav alt=AnubhavMadhav/> </p> 
+<p align="center"> <img src=https://komarev.com/ghpvc/?username=AnubhavMadhav alt=AnubhavMadhav/> </p> 
 
 ------
 <a href="https://www.linkedin.com/in/anubhav-madhav/">
@@ -23,18 +23,18 @@
 <a href="https://twitter.com/Anubhav_Madhav">
   <img align="left" alt="Anubhav's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/twitter.svg" />
 </a> 
-------
+
 <img src="https://i.imgur.com/dk1IG72.gif" width="430" align='right'>
-------
+
 <br/>
 
 - 🔭 I’m currently working on **Augmented Reality Projects**
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 🎻 My Personal Website https://anubhavmadhav.github.io/Anubhav-Madhav/
+- 🎻 My Personal Website [Anubhav Madhav](https://anubhavmadhav.github.io/Anubhav-Madhav/)
 
-- 💻 My Blog Website https://anubhav-madhav-blogs.herokuapp.com/
+- 💻 My Blog Website  [AM-Blogs](https://anubhav-madhav-blogs.herokuapp.com/)
 
 <!-- - 👯 I’m looking to collaborate on **developing a Deep Learning project** -->
 
