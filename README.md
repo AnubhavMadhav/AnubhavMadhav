@@ -9,7 +9,7 @@
 <!-- 
 <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/> -->
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=AnubhavMadhav alt=AnubhavMadhav/> </p> 
-<img src="thor.gif" width="520" align='right'>
+<img src="https://i.imgur.com/dk1IG72.gifv" width="520" align='right'>
 
 <a href="https://www.linkedin.com/in/anubhav-madhav/">
   <img align="left" alt="Anubhav's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
