@@ -44,7 +44,9 @@
 
 - ⚡ Fun fact **We can grab a coffee☕️ while discussing Marvel Cinematic Universe🤓**
 ------
-
+<img src="https://github-readme-stats.vercel.app/api?username=AnubhavMadhav&show_icons=true&theme=blue-green&?count_private=true">
+<IMG SRC="https://github-readme-stats.vercel.app/api/top-langs/?username=AnubhavMadhav&theme=blue-green&&layout=compact">
+  
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
