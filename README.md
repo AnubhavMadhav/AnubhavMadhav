@@ -53,14 +53,49 @@
 <code><img height="20" src="https://konpa.github.io/devicon/devicon.git/icons/c/c-original.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/unity-512.png"></code>
-<code><img height="20" src=""></code>
+<!-- <code><img height="20" src=""></code> -->
 <code><img height="20" src="https://konpa.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 
 
+<!DOCTYPE html>
+<html>
+    <head><title>Aspose.3D</title></head>
+    <style>
+        #canvas {border:1px solid black;width: 900px;height:700px;}
+    </style>
+    <body>
+        <canvas id='canvas'></canvas>
+    </body>
+        <script>
+            var Aspose3D = {
+                locateFile : function(path, prefix) {
+                    return 'https://products.aspose.app/3d/assets/js/' + path;
+                }
+            };
+        </script>
+        <script src='https://products.aspose.app/3d/assets/js/aspose.3d-2.0.js'></script>
+        <script>
 
-
+                aspose3d({
+                    canvas : 'canvas',
+                    movement : 'orbital',
+                    centerModel : true,
+                    features : ['grid', 'menu', 'summary', 'orientationBox', ],
+                    camera:
+                    {
+                        far: 1000,
+                        near: 1,
+                        up: 'y',
+                        lookAt : [0, 0, 0],
+                        position : [10, 10, 10],
+                        fov : 45
+                    },
+                    url: 'scene.a3dw'
+                });
+        </script>
+</html>
 
 
 <!--
