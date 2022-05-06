@@ -30,6 +30,8 @@
 
 - 🔭 I’m currently working on **Go Lang REST APIs using MUX**
 
+- 🦸‍♂️ I'm the **Google DSC Lead of IIIT Vadodara**
+
 - 💻 I'm a **Software Developer Intern at [Testbook.com](https://testbook.com/)**
 
 - 🌱 I’m currently learning **Blockchain Application Development**
