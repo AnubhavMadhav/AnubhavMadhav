@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Anubhav Madhav</h1>
-<h3 align="center">An AI and AR Enthusiast and a Tech Explorer from India</h3>
+<h3 align="center">A Backend Engineer, an AI Enthusiast and a Tech Explorer from India</h3>
 
 
 <!-- 
@@ -28,17 +28,17 @@
 
 <br/>
 
-- 🔭 I’m currently working on **Go Lang REST APIs using MUX**
+- 💻 I'm a Software Engineer at American Express in India
 
-- 🦸‍♂️ I'm the **Google DSC Lead of IIIT Vadodara**
+- 🔭 I’m currently working on **Go Lang= - Event Based Architectures**
 
-- 💻 I'm a **Software Developer Intern at [Testbook.com](https://testbook.com/)**
+- 🦸‍♂️ I've been the **Google DSC Lead of IIIT Vadodara** for 2021-22.
 
-- 🌱 I’m currently learning **Blockchain Application Development**
+- 🌱 I’m currently learning **something new**
 
 - 🎻 My Personal Website **[Anubhav Madhav](https://anubhavmadhav.github.io/Anubhav-Madhav/)**
 
-- 💻 My Blog Website **[AM-Blogs](https://anubhav-madhav-blogs.herokuapp.com/)**
+- 💻 My Tuition's Website **[The Coder Champ](https://the-coder-champ.carrd.co/)**
 
 <!-- - 👯 I’m looking to collaborate on **developing a Deep Learning project** -->
 
