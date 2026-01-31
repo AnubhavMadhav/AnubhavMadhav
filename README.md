@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Anubhav Madhav</h1>
-<h3 align="center">A Backend Engineer, an AI Enthusiast and a Tech Explorer from India</h3>
+<h3 align="center">A Backend + Gen AI Engineer and a Tech Explorer from India</h3>
 
 
 <!-- 
@@ -30,13 +30,13 @@
 
 - 💻 I'm a Software Engineer at American Express in India
 
-- 🔭 I’m currently working on **Go Lang= - Event Based Architectures**
+- 🔭 I’m currently working on **Go Lang - Event Based Architecture**
 
 - 🦸‍♂️ I've been the **Google DSC Lead of IIIT Vadodara** for 2021-22.
 
-- 🌱 I’m currently learning **something new**
+- 🌱 I’m currently learning **Gen AI**
 
-- 🎻 My Personal Website **[Anubhav Madhav](https://anubhavmadhav.github.io/Anubhav-Madhav/)**
+- 🎻 My Personal Website **[Anubhav Madhav](https://anubhav-madhav.vercel.app/)**
 
 - 💻 My Tuition's Website **[The Coder Champ](https://the-coder-champ.carrd.co/)**
 
